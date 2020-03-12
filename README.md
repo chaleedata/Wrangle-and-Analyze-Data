@@ -1,4 +1,4 @@
-# Wrangle-and-Analyze-Data ver1 from udacity 
+# Wrangle-and-Analyze-Data from udacity 
 
 # Tasks in this project: 
 
